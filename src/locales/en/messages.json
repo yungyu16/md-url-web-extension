@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Copy Markdown URL",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Copy the Markdown URL of elements (page, image, link) via right-click menu and add to clipboard",
+    "description": "Extension description"
+  }
+}

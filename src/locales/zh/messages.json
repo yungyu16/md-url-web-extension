@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "复制 Markdown URL",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "右键菜单内复制元素(页面、图片、链接)的的markdown url并添加到粘贴板",
+    "description": "Extension description"
+  }
+}
